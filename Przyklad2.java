@@ -8,7 +8,7 @@ public class ZAD2 {
 		data.format("%tA %td %tB %tY", dzis, dzis, dzis, dzis);
 		System.out.println(data);
 		data.close();
-		
+		//zmiana pliku2
 	
 		Formatter data2=new Formatter();
 		data2.format("%TR",dzis);
