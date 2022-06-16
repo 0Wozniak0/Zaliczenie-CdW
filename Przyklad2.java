@@ -1,6 +1,6 @@
 import java.util.Calendar;
 import java.util.Formatter;
-public class zad1 {
+public class ZAD2 {
 
 	public static void main(String[] args) {
 		Calendar dzis=Calendar.getInstance();
